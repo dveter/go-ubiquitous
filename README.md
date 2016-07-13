@@ -1,7 +1,7 @@
-Advanced Android Sample App
+Android Developer Nanodegree - Project 6: Go Ubiquitous
 ===================================
 
-Synchronizes weather information from OpenWeatherMap on Android Phones and Tablets. Used in the Udacity Advanced Android course.
+Updated Sunshine App from Advanced Android Development course. New version synchronizes weather information from OpenWeatherMap between Android Phones or Tablets and wearable devices.
 
 Pre-requisites
 --------------
@@ -13,6 +13,8 @@ Android Support GridLayout 22.2.0
 Android Support CardView 22.2.0
 Android Support Design 22.2.0
 Android Support RecyclerView 22.2.0
+Android Support Wearable 2.0.0-alpha1
+Android Gms Play-services-wearable 9.0.0
 Google Play Services GCM 7.0.0
 BumpTech Glide 3.5.2
 
